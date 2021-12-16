@@ -1,0 +1,11 @@
+{
+  "location_national": "England",
+  "location_local": "Exeter",
+  "covid_key_terms": "Covid COVID-19 coronavirus",
+  "api_url": "https://newsapi.org/v2/top-headlines",
+  "api_key": "baa150fa0a134113919e26cef26500cc",
+  "language": "en",
+  "title_str": "Daily update",
+  "logo_path": "virus.webp",
+  "favicon_path": "/static/images/virus.webp"
+}
